@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Yavuz",
+        "lastName": "Avci",
+        "age": 31,
+        "retired": false
+    },
+    {
+        "firstName": "Esra",
+        "lastName": "Avci",
+        "age": 29,
+        "retired": false
+    },
+    {
+        "firstName": "Zeki",
+        "lastName": "Avci",
+        "age": 54,
+        "retired": true
+    },
+    {
+        "firstName": "Fatma",
+        "lastName": "Avci",
+        "age": 25,
+        "retired": false
+    }
+]
